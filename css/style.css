@@ -49,7 +49,7 @@ table {
 
 #page {
     max-width: 800px;
-    padding: 12px;
+    padding: 24px;
     margin: 0 auto;
     text-align: center;
 }
@@ -118,14 +118,23 @@ p {
 
 #contact-list {
 	li {
-		line-height: 180%;
-		display: block;
+		a {
+			line-height: 190%;
+			display: block;
+			font-size: 1.3rem;
+		}
 	}
 }
 
 @media only screen and (max-width: 660px) {
+	body {
+		background-position: top left;
+	}
 	p {
 		font-size: 0.9rem;
 		margin: 32px 0px;
+	}
+	h2 {
+		font-size: 3rem;
 	}
 }
