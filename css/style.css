@@ -102,3 +102,10 @@ p {
 .quote {
 	margin: 36px 0;
 }
+
+#contact-list {
+	li {
+		line-height: 180%;
+		display: block;
+	}
+}
