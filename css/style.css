@@ -59,7 +59,7 @@ html, body {
 
 }
 
-h1.title {
+h1#title {
 	font-size: 52px;
 	font-family: "Special Elite", system-ui;
 	font-weight: 400;
