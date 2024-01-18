@@ -61,7 +61,8 @@ font-family: "Courier Prime", monospace;
   background-image: url('../img/bg.jpg');
   background-repeat: no-repeat;
   background-position: top center;
-  margin-top: 30%;
+  margin-top: 8%;
+  margin-bottom: 8%;
 }
 
 h1#title {
