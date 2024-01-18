@@ -111,8 +111,8 @@ h5 {
 	margin: 1.4rem 0;
 }
 p {
-	line-height: 160%;
-	margin: 24px 0;
+	line-height: 170%;
+	margin: 3rem 0;
 }
 .quote {
 	margin: 36px 0;
@@ -122,5 +122,12 @@ p {
 	li {
 		line-height: 180%;
 		display: block;
+	}
+}
+
+@media only screen and (max-width: 660px) {
+	p {
+		font-size: 0.9rem;
+		margin: 32px 0px;
 	}
 }
