@@ -70,7 +70,9 @@ h1 span {
 	font-size: 14px;
 	font-family: Arial, Helvetica, sans-serif;
 }
-
+p {
+	line-height: 100%;
+}
 .quote {
 	margin: 36px 0;
 }
